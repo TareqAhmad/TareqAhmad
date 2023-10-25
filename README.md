@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TareqAhmad
 - 👀 I’m interested in learning Programming and Problem Solving 
-- 🌱 I’m currently learning Front-End 
+- 🌱 I’m currently learning Full stack developer
 - 💞️ I’m looking to collaborate on create new features and enhancement 
 - 📫 How to reach me by email "tareq33daja@gmail.com" or phone number "962-790205293"
 
